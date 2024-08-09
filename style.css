@@ -1,0 +1,160 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #DC143C;
+    margin: 0px;
+}
+mark{
+    background-color: #eddc22;
+}
+
+header{
+    background-color:rgb(118, 25, 25);
+    padding: 10px;
+    margin: 10px;
+    border-radius: 20px;
+
+}
+
+header>h1{
+    text-align: center;
+}
+nav{
+    background-color:  #eddc22;
+    padding: 5px;
+    box-shadow: 5px 5px 5px  black;
+    border-radius: 3px;
+    border-radius: 20px;
+}
+
+nav > a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    margin: 140px;
+}
+
+nav > a:hover{
+    color: red;
+}
+main{
+    background-color:black;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 20px;
+}
+
+section > h2{
+    text-align: center;
+    color:yellow ;
+}
+section > p{
+    
+    color: white;
+}
+
+section{
+    margin-bottom: 10px;
+}
+
+article{
+    background-color: rgb(118, 25, 25);
+    border-radius: 5px;
+    padding: 10px;
+}
+article>h2{
+    color: white;
+}
+.documentario{
+    width:800px;
+    height: 600px;
+}
+img{
+    width: 500px;
+    height:800px ;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    border-style: solid;
+    border-color:  #d96f6f;
+}
+
+li> a{
+    text-decoration: none;
+    color: black;
+    font-weight: 10px;
+}
+
+li> a > h3:hover{
+    color: #d96f6f;
+    text-decoration: underline;
+
+}
+li>a:visited{
+    color: black;
+    
+}
+
+article > aside{
+    background-color:  #9a3030;
+    border-radius: 5px;
+    padding: 10px;
+}
+div > img{
+    width: 300px;
+    height: 350px;
+    padding: 0px;
+    margin-left:75px;
+    
+    
+}
+ul{
+    text-align: center;
+    List-style: none;
+}
+footer{
+    background-color:rgb(118, 25, 25) ;
+    color:#ffff;
+    padding: 1px;
+    margin: 0px;
+    
+}
+
+footer > p{
+    text-align: center;
+}
+#titulo{
+    color: #9a3030;
+    text-align: center;
+}
+.documentario{
+    text-align: center;
+ 
+}
+#tdoc{
+    text-align: center;
+    color: aliceblue;
+
+}
+section>article>a>.tdoc{
+
+    color: aliceblue;
+    text-align: center;
+}
+
+section > article > a {
+    text-decoration: none;
+}
+    
+
+.tdoc:hover{
+    color: #eddc22;
+}
+.social{
+    text-align: center; 
+}
+
+.logo {
+    width: 50px;
+    height: 50px;
+    margin: 0 10px; 
+}
+
